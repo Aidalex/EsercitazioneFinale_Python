@@ -9,15 +9,15 @@ Le analisi preliminari, nello specifico, con l'analisi sulla correlazione dei da
 
 
 È stata richiesta un'analisi mirata dei seguenti punti:
-1. Si chiede di trovare, per ogni continente:
-  a. il numero di casi fin dall'inizio della pandemia;
+1. Si chiede di trovare, per ogni continente:  
+  a. il numero di casi fin dall'inizio della pandemia;  
   b. la percentuale rispetto al totale mondiale del numero di casi.
-2. Selezionare i dati relativi all'Italia nel 2022 e mostrare con dei grafici:
-  a. l'evoluzione del casi totali dall'inizio alla fine dell'anno;
+2. Selezionare i dati relativi all'Italia nel 2022 e mostrare con dei grafici:  
+  a. l'evoluzione del casi totali dall'inizio alla fine dell'anno;  
   b. il numero di nuovi casi rispetto alla data.
-3. Riguardo le nazioni di Italia, Germania e Francia:
+3. Riguardo le nazioni di Italia, Germania e Francia:  
   a. mostrare in un boxplot la differenza tra queste nazioni riguardo il numero di pazienti in terapia intensiva da maggio 2022 (incluso) ad aprile 2023 (incluso).
-4. Riguardo le nazioni di Italia, Germania, Francia e Spagna in tutto il 2021:
+4. Riguardo le nazioni di Italia, Germania, Francia e Spagna in tutto il 2021:  
   a. mostrare, in maniera grafica oppure numerica, la somma dei pazienti ospitalizzati per ognuna.
 
 Per le richieste è stato selezionato un nuovo database filtrato dei dati necessari per le rispetive analisi, oltre alla dimostrazione numerica e grafica, e dei commenti per ogni analisi eseguita.
